@@ -27,7 +27,7 @@ We're inviting creatives, developers, strategists, and content builders to help 
 - 🌐 [Website (coming soon)](https://yourwebsite.com)  
 - 📦 [Main Project Repo](https://github.com/The-Cross0ver-7-Project)  
 - 📄 [Contribution Guidelines](https://github.com/The-Cross0ver-7-Project/.github/CONTRIBUTING.md)  
-- 💬 [Join Us on Discord](https://discord.gg/yourlink) *(optional)*  
+
 
 ---
 
